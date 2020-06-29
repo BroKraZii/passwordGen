@@ -8,3 +8,6 @@ Will alert user if certain parameters aren't met. User must check atleast one bo
 If you need a password with specific parameters, this application will generate a random but strong password.
 
 brokrazii.github.io/passwordGen/
+-
+-
+-
