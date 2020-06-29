@@ -11,4 +11,3 @@ brokrazii.github.io/passwordGen/
 -
 -
 -
-![image](https://user-images.githubusercontent.com/65319012/85974006-33446580-b989-11ea-9841-4313559b0dd3.png)
